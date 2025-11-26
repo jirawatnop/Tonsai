@@ -1,1 +1,1 @@
-
+push git add tonsai-chatbot git commit -m "Initialize Tonsai Chatbot for Vercel deploy (why: AI chat + i18n + widget)" git push -u origin capy/initial-setup
