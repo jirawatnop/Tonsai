@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-tonsai-bg text-tonsai-text antialiased;
+}
+
+.chat-gradient {
+  background: linear-gradient(135deg, rgba(10,117,173,0.08), rgba(106,13,173,0.08));
+}
+
+.bubble-ai {
+  @apply bg-white shadow-soft rounded-2xl px-4 py-3 border border-gray-100;
+}
+
+.bubble-user {
+  @apply bg-tonsai-orange text-white rounded-2xl px-4 py-3 shadow-soft;
+}
+
+.quick-chip {
+  @apply inline-flex items-center gap-2 bg-white border border-gray-200 rounded-full px-3 py-1 text-sm hover:bg-gray-50 cursor-pointer;
+}
