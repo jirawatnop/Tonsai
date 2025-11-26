@@ -1,0 +1,14 @@
+{
+  "app.title": "通塞大象普吉",
+  "chat.title": "AI 套餐助手",
+  "chat.input.placeholder": "请输入消息...",
+  "chat.quick.viewAll": "查看所有套餐",
+  "chat.quick.contact": "联系管理员",
+  "chat.quick.promo": "查看优惠",
+  "chat.greeting": "您好！我是通塞大象普吉的 AI 助手，我可以帮您推荐合适的套餐 😊",
+  "header.bookNow": "立即预订",
+  "header.promo": "优惠码 TONSAIP10 立减 10%",
+  "widget.open": "和我们聊天",
+  "widget.minimize": "最小化",
+  "widget.close": "关闭"
+}

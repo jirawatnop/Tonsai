@@ -1,0 +1,14 @@
+{
+  "app.title": "Tonsai Elephant Phuket",
+  "chat.title": "AI Package Assistant",
+  "chat.input.placeholder": "Type your message...",
+  "chat.quick.viewAll": "View all packages",
+  "chat.quick.contact": "Contact admin",
+  "chat.quick.promo": "View promotion",
+  "chat.greeting": "Hello! I'm the AI assistant for Tonsai Elephant Phuket. I can help you find the perfect package 😊",
+  "header.bookNow": "Book now",
+  "header.promo": "Promo code TONSAIP10 saves 10%",
+  "widget.open": "Chat with us",
+  "widget.minimize": "Minimize",
+  "widget.close": "Close"
+}
